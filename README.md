@@ -1,4 +1,4 @@
-# Analise-churn
+# Analise de Churn
 
 ## 🚧 Projeto em desenvolvimento
 
