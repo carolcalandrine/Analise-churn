@@ -11,3 +11,17 @@ Ao longo da análise, são consideradas variáveis categóricas e numéricas, bu
 Acesse o notebook:
 
 - [Projeto no Google Colab](https://github.com/carolcalandrine/Analise-churn/blob/main/projeto_churn.ipynb)
+
+## Ferramentas utilizadas
+- Python
+  - Pandas
+  - Matplotlib
+  - Seaborn
+
+## Metodologia
+
+A análise foi estruturada nas seguintes etapas:
+
+1. **Exploração Univariada** — análise individual de cada variável, verificando distribuição, frequência e valores ausentes
+2. **Exploração Multivariada** — cruzamento das variáveis com a variável alvo (Churn) e análise de correlação entre variáveis numéricas
+
